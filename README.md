@@ -1,4 +1,4 @@
-# Machine-Learning-Models-For-MNIST-Digit-Recognition
+# MNIST Handwritten Digit Recognition with Multiple Machine Learning Models
 In this project, a variety of machine learning models, including Support Vector Machines (SVM), k-Nearest Neighbors (k-NN), Logistic Regression, Decision Trees, and Random Forest Classifier, were applied to perform handwritten digit recognition on the MNIST dataset. The models were trained using the "mnist_train.csv" dataset, and a structured approach was taken with two key functions: one for training and another for testing. These trained models were saved in .pkl (pickle) format for future use.
 
 Before training the models, the dataset was preprocessed using the Min-Max scaling method (MinMaxScaler) to normalize the data.
